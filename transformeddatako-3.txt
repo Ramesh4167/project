@@ -1,0 +1,9 @@
+108,LATHA,female,1998-10-10,latha@gmail.com,9502366103,delhi,delhi,india,INDIA
+107,ANITHA,female,2005-10-19,anitha@gmail.com,9440660557,pune,pune,india,INDIA
+106,SUNITHA,female,2019-08-08,sunitha@gmail.com,6303471447,Mahabubnagar,telanagana,india,INDIA
+105,KAVITHA,female,2018-10-07,kavitha@gmail.com,8897292699,Hyderbad,telanagana,india,INDIA
+104,RAMESH,male,2011-11-06,ramesh@gmail.com,9786542310,vizag,andhrapradesh,india,INDIA
+103,VINAYAK,male,2008-10-05,vinayk@gmail.com,9876543210,pune,pune,india,INDIA
+102,SURESH,male,2003-10-04,suresh@gmail.com,9440660556,mumbabi,mumbai,india,INDIA
+101,ARUNKUMAR,male,1998-10-03,arun@gmail.com,8897292698,Mahabubnagar,telanagana,india,INDIA
+100,VINAY KUMAR,male,1998-10-02,vinay@gmail.com,6303471337,Hyderbad,telanagana,india,INDIA

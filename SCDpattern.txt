@@ -1,0 +1,6 @@
+studname,studid,school,groupname
+vijay,4,GHS,CA
+arjun,1,zphs,mpc
+      
+
+      

@@ -1,0 +1,9 @@
+vinay kumar,male,10/2/1998,vinay@gmail.com,6303471337,Hyderbad,telanagana,india,vinay kumar,male,10/2/1998,vinay@gmail.com,6303471337,Hyderbad,telanagana,india
+arunkumar,male,10/3/1998,arun@gmail.com,8897292698,Mahabubnagar,telanagana,india,arunkumar,male,10/3/1998,arun@gmail.com,8897292698,Mahabubnagar,telanagana,india
+suresh,male,10/4/2003,suresh@gmail.com,9440660556,mumbabi,mumbai,india,suresh,male,10/4/2003,suresh@gmail.com,9440660556,mumbabi,mumbai,india
+vinayak,male,10/5/2008,vinayk@gmail.com,9876543210,pune,pune,india,vinayak,male,10/5/2008,vinayk@gmail.com,9876543210,pune,pune,india
+ramesh,male,11/6/2011,ramesh@gmail.com,9786542310,vizag,andhrapradesh,india,ramesh,male,11/6/2011,ramesh@gmail.com,9786542310,vizag,andhrapradesh,india
+kavitha,female,10/7/2018,kavitha@gmail.com,8897292699,Hyderbad,telanagana,india,kavitha,female,10/7/2018,kavitha@gmail.com,8897292699,Hyderbad,telanagana,india
+sunitha,female,8/8/2019,sunitha@gmail.com,6303471447,Mahabubnagar,telanagana,india,sunitha,female,8/8/2019,sunitha@gmail.com,6303471447,Mahabubnagar,telanagana,india
+anitha,female,10/19/2005,anitha@gmail.com,9440660557,pune,pune,india,anitha,female,10/19/2005,anitha@gmail.com,9440660557,pune,pune,india
+latha,female,10/10/1998,latha@gmail.com,9502366103,delhi,delhi,india,latha,female,10/10/1998,latha@gmail.com,9502366103,delhi,delhi,india
